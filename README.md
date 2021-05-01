@@ -22,4 +22,4 @@
 - [ ] [A Vanilla JS Guide On Mastering the DOM — Brian Pak](https://dev.to/bouhm/a-vanilla-js-guide-on-mastering-the-dom-3l9b)
 
 ## Other
-- [ ] [Here is why vim uses hjkl keys as arrow keys](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys)
+- [x] [Here is why vim uses hjkl keys as arrow keys](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys)
