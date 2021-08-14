@@ -23,4 +23,5 @@
 
 ## Other
 - [x] [Here is why vim uses hjkl keys as arrow keys](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys)
-- [] [i fucked UP](https://www.reddit.com/r/teenagers/comments/p3y5gl/i_fucked_up/)
+- [x] [i fucked UP](https://www.reddit.com/r/teenagers/comments/p3y5gl/i_fucked_up/)
+- [] [I love my little sister so much](https://www.reddit.com/r/teenagers/comments/ozw6tl/i_love_my_little_sister_so_much)
