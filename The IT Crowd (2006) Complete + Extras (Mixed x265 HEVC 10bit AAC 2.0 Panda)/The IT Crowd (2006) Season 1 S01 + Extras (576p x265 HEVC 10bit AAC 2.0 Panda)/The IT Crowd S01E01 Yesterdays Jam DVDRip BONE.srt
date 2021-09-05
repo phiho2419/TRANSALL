@@ -1,0 +1,1494 @@
+﻿1
+00:00:45,640 --> 00:00:49,361
+Hope this doesn't embarrass you, Jen, but I
+find the best thing to do with a new employee
+
+2
+00:00:49,480 --> 00:00:52,848
+is to size them up
+with a long, hard stare.
+
+3
+00:01:10,240 --> 00:01:11,730
+- So.
+- So.
+
+4
+00:01:11,840 --> 00:01:13,001
+- First day.
+- Yes.
+
+5
+00:01:13,120 --> 00:01:14,451
+- Scary.
+- Yes.
+
+6
+00:01:14,560 --> 00:01:16,688
+- Don't be scared.
+- I'm not really scared.
+
+7
+00:01:16,800 --> 00:01:18,564
+- You should be.
+- I am a little bit scared.
+
+8
+00:01:18,680 --> 00:01:20,569
+- Well, don't be.
+- Make up your mind.
+
+9
+00:01:20,680 --> 00:01:23,286
+Ha, ha, ha! So here you are.
+
+10
+00:01:23,400 --> 00:01:26,802
+Yes. Really looking forward
+to getting to grips...
+
+11
+00:01:26,920 --> 00:01:28,649
+I'm going to put you in IT,
+
+12
+00:01:28,760 --> 00:01:33,971
+because you said in your cv you have
+a lot of experience with computers.
+
+13
+00:01:34,080 --> 00:01:36,401
+I did say that on my cv, yes.
+
+14
+00:01:36,520 --> 00:01:41,321
+I have a lot of experience
+with the whole computer thing.
+
+15
+00:01:41,440 --> 00:01:43,204
+You know, emails.
+
+16
+00:01:43,320 --> 00:01:45,561
+Sending emails.
+Receiving emails.
+
+17
+00:01:45,680 --> 00:01:48,206
+Deleting emails. Um...
+
+18
+00:01:48,320 --> 00:01:50,084
+I could go on.
+
+19
+00:01:50,200 --> 00:01:51,770
+Do.
+
+20
+00:01:52,720 --> 00:01:58,045
+The web. Using mouse... mices.
+Using mice. Um...
+
+21
+00:01:58,160 --> 00:02:00,970
+Clicking, double clicking. Um...
+
+22
+00:02:01,080 --> 00:02:03,890
+The computer screen, of course.
+The keyboard.
+
+23
+00:02:04,000 --> 00:02:06,924
+- The bit that goes on the floor down there.
+- The hard drive?
+
+24
+00:02:07,040 --> 00:02:08,644
+- Correct.
+- Uh-huh.
+
+25
+00:02:08,760 --> 00:02:10,888
+Well, you certainly seem
+to know your stuff.
+
+26
+00:02:11,000 --> 00:02:14,846
+Settled. Got a good feeling about you, Jen.
+And they need a new manager.
+
+27
+00:02:14,960 --> 00:02:18,282
+Fantastic. So the people
+I'll be working with, what are they like?
+
+28
+00:02:18,400 --> 00:02:20,368
+Standard nerds!
+
+29
+00:03:08,200 --> 00:03:09,964
+Hello, IT.
+
+30
+00:03:10,080 --> 00:03:13,562
+Have you tried turning it off and on again?
+
+31
+00:03:13,680 --> 00:03:18,402
+Ugh! OK, well, the button on the side,
+is it glowing?
+
+32
+00:03:19,880 --> 00:03:22,121
+Yeah, you need to turn it on.
+
+33
+00:03:23,520 --> 00:03:25,841
+The button turns it on.
+
+34
+00:03:28,600 --> 00:03:31,206
+Yeah, you...
+
+35
+00:03:31,320 --> 00:03:34,005
+You do know how a button works, don't you?
+
+36
+00:03:34,120 --> 00:03:37,727
+- No, not on clothes.
+- Hello, IT.
+
+37
+00:03:37,840 --> 00:03:40,047
+Yeah-ha.
+
+38
+00:03:40,160 --> 00:03:43,369
+Have you tried
+forcing an unexpected reboot?
+
+39
+00:03:43,480 --> 00:03:46,689
+No, there you go. No, there you go.
+I just heard it come on.
+
+40
+00:03:46,800 --> 00:03:48,802
+No, no, that's the music you hear
+when it comes on.
+
+41
+00:03:48,920 --> 00:03:50,888
+No, that's the music you hear when...
+
+42
+00:03:51,000 --> 00:03:53,890
+I'm sorry, are you from the past?
+
+43
+00:03:54,000 --> 00:03:57,049
+See, the driver hooks the function
+by patching the system call table,
+
+44
+00:03:57,160 --> 00:04:01,085
+so it's not safe to unload it unless another
+thread's about to jump in and do its stuff,
+
+45
+00:04:01,200 --> 00:04:06,001
+and you don't want to end up
+in the middle of invalid memory.
+
+46
+00:04:06,840 --> 00:04:08,649
+Hello?
+
+47
+00:04:08,760 --> 00:04:12,082
+Oh, really? Really? Well, why don't you
+come down here and make me, then?
+
+48
+00:04:12,200 --> 00:04:14,965
+What? You think I'm afraid of you?
+I'm not afraid of you.
+
+49
+00:04:15,080 --> 00:04:18,926
+You can come down here any time
+and I'll be waiting for you.
+
+50
+00:04:19,040 --> 00:04:21,168
+That told her.
+
+51
+00:04:22,280 --> 00:04:25,090
+Oh, God, it's about time you got back.
+It's been all go.
+
+52
+00:04:25,200 --> 00:04:27,931
+- You had a job?
+- Girl on fifth.
+
+53
+00:04:28,040 --> 00:04:30,964
+Did you and her hit it off?
+
+54
+00:04:31,080 --> 00:04:33,651
+Define '*hit it off'*.
+
+55
+00:04:33,760 --> 00:04:38,163
+Did she continue talking to you
+once you'd fixed her computer?
+
+56
+00:04:38,280 --> 00:04:40,009
+No.
+
+57
+00:04:40,120 --> 00:04:43,488
+And while I was working on it,
+she rested a cup on my back.
+
+58
+00:04:43,600 --> 00:04:46,331
+- No.
+- Yep.
+
+59
+00:04:46,440 --> 00:04:48,044
+Unbelievable.
+
+60
+00:04:48,160 --> 00:04:52,563
+They've no respect for us up there. No respect
+whatsoever. We're all just drudgeons to them.
+
+61
+00:04:52,680 --> 00:04:56,844
+Yes. If there were such a thing as a
+drudgeon, that is what we'd be to them.
+
+62
+00:04:56,960 --> 00:05:00,806
+They're pally-wally when there's a problem
+with their printer, but once it's fixed...
+
+63
+00:05:00,920 --> 00:05:03,321
+They toss us away like yesterday's jam.
+
+64
+00:05:03,440 --> 00:05:07,240
+Yes! Yesterday's jam.
+That is what we are to them.
+
+65
+00:05:08,680 --> 00:05:11,650
+Actually, you know what?
+That doesn't really work as a thing.
+
+66
+00:05:11,760 --> 00:05:14,001
+Because jam lasts for ages.
+
+67
+00:05:16,080 --> 00:05:20,210
+Hello, IT.
+Have you tried turning it off and on again?
+
+68
+00:05:22,480 --> 00:05:25,086
+Unisex toilets.
+You have unisex toilets.
+
+69
+00:05:25,200 --> 00:05:27,362
+Like <i>Ally McBeal.</i>
+
+70
+00:05:32,200 --> 00:05:34,168
+That's the sort of place this is, Jen.
+
+71
+00:05:34,280 --> 00:05:38,444
+A lot of sexy people not doing much work
+and having affairs.
+
+72
+00:05:38,560 --> 00:05:40,483
+Wow.
+
+73
+00:05:40,600 --> 00:05:43,604
+Oh, my God. Look at that view.
+
+74
+00:05:46,880 --> 00:05:49,724
+I feel like I'm on top of the world.
+
+75
+00:05:49,840 --> 00:05:51,888
+Well, Jen, this is where I leave you.
+
+76
+00:05:52,000 --> 00:05:53,923
+<i>Floor34.</i>
+
+77
+00:05:55,240 --> 00:05:58,210
+Very exciting.
+OK. Where am I going?
+
+78
+00:05:58,320 --> 00:06:02,450
+All the way down to the basement.
+Good luck.
+
+79
+00:06:12,760 --> 00:06:16,207
+<i>Get out of the lift.
+Get out of the lift.</i>
+
+80
+00:06:16,320 --> 00:06:19,688
+<i>Get out of the lift.
+Get out of the lift.</i>
+
+81
+00:06:19,920 --> 00:06:23,242
+<i>Get out of the lift.
+Get out of the lift.</i>
+
+82
+00:06:23,480 --> 00:06:26,882
+<i>Get out of the lift.
+Get out of the lift.</i>
+
+83
+00:06:27,000 --> 00:06:28,968
+<i>Get out of the lift.</i>
+
+84
+00:06:40,440 --> 00:06:44,604
+- Oh, won't be a tick.
+- Oh, my God. Oh, my God.
+
+85
+00:06:44,720 --> 00:06:46,688
+Oh, God. OK.
+
+86
+00:06:46,800 --> 00:06:48,723
+Argh!
+
+87
+00:06:56,400 --> 00:06:58,368
+Hello.
+
+88
+00:06:59,720 --> 00:07:01,688
+Hello.
+
+89
+00:07:41,280 --> 00:07:47,606
+Yes, I believe it was Tolstoy
+who said... Oh, it seems we have a visitor.
+
+90
+00:07:47,720 --> 00:07:52,806
+I'm sorry, myself and Maurice were engaged in
+a serious discussion about books and such.
+
+91
+00:07:52,920 --> 00:07:54,922
+We didn't hear you come in.
+
+92
+00:07:55,040 --> 00:07:57,361
+Wait a second.
+You said it was Tolstoy who said what?
+
+93
+00:07:57,480 --> 00:08:01,485
+- Oh, never mind that now, Maurice.
+- When have you read Tolstoy?
+
+94
+00:08:01,600 --> 00:08:05,161
+- Shut up, Maurice.
+- Why are you speaking in that weird voice?
+
+95
+00:08:05,280 --> 00:08:09,808
+When did...?
+I don't remember this conversation at all.
+
+96
+00:08:09,920 --> 00:08:12,080
+Don't let me disturb you.
+I just wanted to come down...
+
+97
+00:08:12,160 --> 00:08:15,482
+Oh, don't be silly, you never disturbed us.
+
+98
+00:08:19,160 --> 00:08:21,049
+Oh.
+
+99
+00:08:21,160 --> 00:08:23,401
+Many people come down here to visit.
+
+100
+00:08:23,520 --> 00:08:28,162
+What are you talking about?
+Who comes down? What people?
+
+101
+00:08:30,040 --> 00:08:33,886
+Why are you giving me
+the secret signal to shut up?
+
+102
+00:08:34,520 --> 00:08:36,045
+So... Um...
+
+103
+00:08:36,160 --> 00:08:38,322
+What can we do you for?
+
+104
+00:08:39,520 --> 00:08:42,524
+I'm the new head of this department.
+
+105
+00:08:43,960 --> 00:08:45,928
+Is this my office?
+
+106
+00:08:46,720 --> 00:08:48,563
+Why...? What did she...?
+
+107
+00:08:48,680 --> 00:08:51,365
+Did she just say what...?
+I am the head of this department.
+
+108
+00:08:51,480 --> 00:08:53,608
+I thought I was.
+
+109
+00:08:53,720 --> 00:08:57,008
+Well, it's one of us. It's certainly
+not her. I'm going to sort this out.
+
+110
+00:08:57,120 --> 00:08:59,851
+Roy, you've got a head wound there.
+Head wound!
+
+111
+00:09:01,480 --> 00:09:04,131
+Hi. I don't want to be rude or anything,
+
+112
+00:09:04,240 --> 00:09:07,403
+but I wasn't informed
+of any changes to this department.
+
+113
+00:09:07,520 --> 00:09:09,568
+Oh, did they not tell you about me?
+
+114
+00:09:09,680 --> 00:09:13,890
+No. And we are perfectly fine down here,
+thank you very much.
+
+115
+00:09:14,000 --> 00:09:16,287
+We're more than capable
+of taking care of ourselves.
+
+116
+00:09:16,400 --> 00:09:19,483
+Sure, sure.
+You know you're covered in blood?
+
+117
+00:09:20,720 --> 00:09:23,690
+Moss. Amazon thingy.
+
+118
+00:09:23,800 --> 00:09:27,691
+Ah, wicked. I know what this is.
+It's the new Harry Potter.
+
+119
+00:09:27,800 --> 00:09:30,724
+I got the child edition
+and the adult edition,
+
+120
+00:09:30,840 --> 00:09:35,607
+just to check
+that there are no differences in the text.
+
+121
+00:09:36,520 --> 00:09:40,570
+I'm sorry, but I'm not going
+to be able to deal with that woman.
+
+122
+00:09:40,680 --> 00:09:43,080
+Is nobody else going to get the phone?
+I suppose I'll get it.
+
+123
+00:09:43,120 --> 00:09:47,364
+No, that is not a phone.
+I'm going to have a little lie down.
+
+124
+00:09:51,360 --> 00:09:53,442
+Come in.
+
+125
+00:09:53,560 --> 00:09:55,847
+Yeah, Denholm. Yeah, yeah.
+
+126
+00:09:56,680 --> 00:09:59,968
+No, no, no, no, no.
+No, they've been fine so far.
+
+127
+00:10:00,080 --> 00:10:02,845
+Yeah. I think we're going to get on great.
+
+128
+00:10:03,600 --> 00:10:06,444
+Yeah, I know.
+All right, then. No, you take care.
+
+129
+00:10:06,560 --> 00:10:09,450
+All right. Yeah, I will, yeah.
+
+130
+00:10:09,560 --> 00:10:12,643
+OK, OK, take care. Take care.
+
+131
+00:10:12,760 --> 00:10:14,728
+OK, bye. Bye.
+
+132
+00:10:16,280 --> 00:10:20,808
+So, hello. What can I do you fo...
+What can I do for you?
+
+133
+00:10:20,920 --> 00:10:25,926
+Hello. I was just wondering,
+do you want me to connect up your phone?
+
+134
+00:10:34,440 --> 00:10:38,286
+No, n-n-n-n-n-no, no, no.
+It's working.
+
+135
+00:10:38,400 --> 00:10:41,085
+I was just talking to Denholm there.
+
+136
+00:10:41,200 --> 00:10:43,646
+- But how?
+- Would you mind...?
+
+137
+00:10:43,760 --> 00:10:46,491
+Would you mind closing the door for me?
+
+138
+00:10:46,600 --> 00:10:48,568
+Oh, yeah. Sure.
+
+139
+00:10:50,440 --> 00:10:52,602
+Yeah, from the other side.
+
+140
+00:10:53,560 --> 00:10:55,528
+Of course.
+
+141
+00:10:58,080 --> 00:11:00,003
+- Like this?
+- That's it.
+
+142
+00:11:00,640 --> 00:11:02,802
+- With me on the...
+- Thanks.
+
+143
+00:11:05,680 --> 00:11:07,648
+Oh.
+
+144
+00:11:13,840 --> 00:11:17,561
+- Are you all right?
+- Oh, yes, Moss, I'm fine.
+
+145
+00:11:17,680 --> 00:11:20,331
+The nurse said
+I didn't do myself any serious damage.
+
+146
+00:11:20,440 --> 00:11:23,046
+- I'm standing over here.
+- I know, I know. I'm joking.
+
+147
+00:11:23,160 --> 00:11:25,401
+I'm fine.
+What are we going to do about her?
+
+148
+00:11:25,520 --> 00:11:29,366
+Well, I just went in
+and she was having a pretend conversation.
+
+149
+00:11:29,480 --> 00:11:30,766
+- Really?
+- Yes.
+
+150
+00:11:30,880 --> 00:11:34,202
+She's a little bit weird,
+to say the least.
+
+151
+00:11:35,720 --> 00:11:37,404
+- What's that?
+- Oh, just water.
+
+152
+00:11:37,520 --> 00:11:41,320
+Sometimes I get a hot ear,
+and this helps cool it down.
+
+153
+00:11:41,440 --> 00:11:44,046
+She is quite the oddball.
+
+154
+00:11:44,160 --> 00:11:48,370
+Did you notice how she didn't even
+get excited when saw this original ZX81?
+
+155
+00:11:48,480 --> 00:11:52,565
+Yeah, that was weird. It's almost as if
+she doesn't know anything about computers.
+
+156
+00:11:52,680 --> 00:11:56,401
+- What?
+- What are you doing?
+
+157
+00:11:56,520 --> 00:11:59,808
+Don't worry.
+That's why I always make two cups of tea.
+
+158
+00:11:59,920 --> 00:12:01,649
+Anyway, what were we talking about?
+
+159
+00:12:01,760 --> 00:12:05,651
+- Her not knowing anything about computers.
+- What?
+
+160
+00:12:10,800 --> 00:12:13,121
+OK, so we definitely
+want to get rid of her.
+
+161
+00:12:13,240 --> 00:12:16,369
+- Agreed. Yeah.
+- OK, so here's the plan.
+
+162
+00:12:16,480 --> 00:12:20,769
+A plan.
+Let me put on my slightly larger glasses.
+
+163
+00:12:25,880 --> 00:12:28,770
+- OK, hit me.
+- OK, we go in.
+
+164
+00:12:28,880 --> 00:12:32,202
+- When?
+- You know, like, in a minute.
+
+165
+00:12:32,320 --> 00:12:35,802
+Will that be enough time
+for me to get to know the plan?
+
+166
+00:12:35,920 --> 00:12:38,526
+Yeah, you know what?
+I shouldn't have used the word "plan".
+
+167
+00:12:38,640 --> 00:12:42,281
+- I've clearly gotten you overexcited.
+- Would scheme be a better word?
+
+168
+00:12:42,400 --> 00:12:47,361
+Although, that's just as exciting.
+I might even need these.
+
+169
+00:12:50,280 --> 00:12:55,810
+All I was going to say was, we go in, I
+make up a load of bollocks about computers,
+
+170
+00:12:55,920 --> 00:12:58,890
+and we'll see if she picks up on it.
+
+171
+00:13:00,640 --> 00:13:04,531
+Yes. I can see why
+you didn't want to use the word "plan".
+
+172
+00:13:04,640 --> 00:13:07,007
+- Let me do the talking.
+- All right.
+
+173
+00:13:08,040 --> 00:13:09,326
+Ooh, Moss, Moss.
+
+174
+00:13:09,440 --> 00:13:12,171
+OK, we need to get this right, yeah?
+
+175
+00:13:12,280 --> 00:13:17,241
+We need to stay calm.
+We do not want to go in there half-cocked.
+
+176
+00:13:23,840 --> 00:13:25,080
+OK.
+
+177
+00:13:28,160 --> 00:13:29,969
+Hang on, guys.
+
+178
+00:13:32,080 --> 00:13:33,161
+How can I help?
+
+179
+00:13:33,280 --> 00:13:36,045
+Well, we were just wondering,
+now that you're "the boss",
+
+180
+00:13:36,160 --> 00:13:42,645
+would you like us to access the data
+supplier and connect you up to the matrix?
+
+181
+00:13:42,760 --> 00:13:45,286
+You just made all that up.
+
+182
+00:13:46,280 --> 00:13:48,760
+You don't know anything
+about computers, admit it!
+
+183
+00:13:48,880 --> 00:13:51,804
+Will you stop trying to undermine me?
+
+184
+00:13:51,920 --> 00:13:55,811
+Now get in there and do some work
+to do with com-puters.
+
+185
+00:13:55,920 --> 00:13:59,606
+I'll be in there in a minute
+to check up on you.
+
+186
+00:13:59,720 --> 00:14:02,724
+OK, lady, you've won this round.
+
+187
+00:14:03,280 --> 00:14:05,123
+But we can wait.
+
+188
+00:14:05,240 --> 00:14:08,881
+You <i>will slip</i> up one day and, believe
+you me, we will be there when you do.
+
+189
+00:14:09,000 --> 00:14:10,490
+There will be some piece of evidence
+
+190
+00:14:10,600 --> 00:14:14,127
+that will prove without any doubt that
+you don't know anything about computers.
+
+191
+00:14:14,240 --> 00:14:16,242
+What are you doing?
+
+192
+00:14:16,360 --> 00:14:18,567
+Plugging in your computer.
+
+193
+00:14:20,080 --> 00:14:23,880
+It might be something you say,
+or something you do,
+
+194
+00:14:24,000 --> 00:14:27,322
+but when we notice it,
+and, believe me, we will notice it,
+
+195
+00:14:27,440 --> 00:14:31,809
+it's going to be
+a long way down for you, sweet cheeks.
+
+196
+00:14:35,120 --> 00:14:37,566
+He'll realise in a second.
+
+197
+00:14:39,640 --> 00:14:41,324
+Ha!
+
+198
+00:14:46,480 --> 00:14:49,370
+I cannot believe you're
+going to tell on me.
+
+199
+00:14:49,480 --> 00:14:53,201
+You're like a pair of horrible old women.
+
+200
+00:14:53,320 --> 00:14:55,368
+What did she say?
+
+201
+00:14:55,480 --> 00:14:59,007
+- She said we're like horrible old women.
+- She didn't?
+
+202
+00:14:59,120 --> 00:15:01,805
+Hey, guys.
+I hear you've got something to tell me.
+
+203
+00:15:01,920 --> 00:15:05,925
+- Yes, well, it's like this.
+- Look at you. My IT team.
+
+204
+00:15:06,040 --> 00:15:08,247
+- Yeah.
+- Team players, each and every one of you.
+
+205
+00:15:08,360 --> 00:15:09,282
+Yeah, well, she...
+
+206
+00:15:09,400 --> 00:15:12,290
+There's no room for people
+who can't act in a team on my team.
+
+207
+00:15:12,400 --> 00:15:15,051
+Excuse me. Hello.
+
+208
+00:15:15,160 --> 00:15:16,491
+What?
+
+209
+00:15:16,600 --> 00:15:19,444
+Well, if you can't work as a team,
+you're all fired.
+
+210
+00:15:19,560 --> 00:15:23,281
+That's it. You heard me. Fired.
+Get your things and go.
+
+211
+00:15:23,400 --> 00:15:26,768
+Hello, Security.
+Everyone on floor four is fired.
+
+212
+00:15:26,880 --> 00:15:29,201
+Escort them from the premises.
+And do it as a team.
+
+213
+00:15:29,320 --> 00:15:33,689
+Remember, you're a team and if you
+can't act as a team, you're fired too.
+
+214
+00:15:33,800 --> 00:15:35,643
+Dawn, get on to Recruitment.
+
+215
+00:15:35,760 --> 00:15:38,650
+Get them to look for a security team
+that can work as a team.
+
+216
+00:15:38,760 --> 00:15:44,688
+They may have to escort the current team from
+the building for not acting like a team.
+
+217
+00:15:44,800 --> 00:15:48,725
+Team. Team, team, team, team, team.
+
+218
+00:15:48,840 --> 00:15:51,764
+I even love saying the word "team".
+
+219
+00:15:51,880 --> 00:15:55,441
+You probably think
+that's a picture of my family. Uh-uh.
+
+220
+00:15:55,560 --> 00:15:58,086
+It's the A-Team.
+
+221
+00:15:58,200 --> 00:16:01,409
+Bodie, Doyle, Tiger, the Jewellery Man.
+
+222
+00:16:01,520 --> 00:16:04,126
+The whole lot of them.
+
+223
+00:16:04,240 --> 00:16:09,406
+- So what do you want to tell me?
+- Well, it's just not working out.
+
+224
+00:16:09,520 --> 00:16:11,045
+- He's joking.
+- But you said...
+
+225
+00:16:11,160 --> 00:16:14,050
+- Not working out?
+- Oh, no.
+
+226
+00:16:14,160 --> 00:16:17,050
+We are getting on like a big house on fire.
+
+227
+00:16:17,160 --> 00:16:19,128
+My ear's getting hot.
+
+228
+00:16:20,440 --> 00:16:22,602
+No. You know what?
+We should leave now,
+
+229
+00:16:22,720 --> 00:16:26,520
+because you're a busy man and we've
+taken up far too much of your time.
+
+230
+00:16:26,640 --> 00:16:29,610
+- Jen, could you get the door for me there?
+- Absolutely, Roy.
+
+231
+00:16:29,720 --> 00:16:33,805
+- Why did you come here in the first place?
+- Um...
+
+232
+00:16:33,920 --> 00:16:39,211
+We set up a voice-activation system on your
+computer. I think you're going to enjoy it.
+
+233
+00:16:39,320 --> 00:16:43,325
+It might take a little while to get the pitch
+right on the voice, but nonetheless, go ahead.
+
+234
+00:16:43,440 --> 00:16:45,647
+- Thank you very much. Bye-bye.
+- Thank you.
+
+235
+00:16:45,760 --> 00:16:47,364
+How exciting.
+
+236
+00:16:50,600 --> 00:16:52,568
+Hello.
+
+237
+00:16:55,040 --> 00:16:56,405
+Hello, computer.
+
+238
+00:17:00,200 --> 00:17:01,690
+Hello.
+
+239
+00:17:02,920 --> 00:17:04,763
+Hello.
+
+240
+00:17:04,880 --> 00:17:06,564
+Hello, computer.
+
+241
+00:17:08,560 --> 00:17:12,804
+I mean, what good are you? You obviously
+don't know anything about computers.
+
+242
+00:17:12,920 --> 00:17:16,163
+No. But, OK,
+but I can learn, you know.
+
+243
+00:17:16,280 --> 00:17:20,729
+I mean, for example - Moss, you could take
+me through what you're doing right now.
+
+244
+00:17:20,840 --> 00:17:25,402
+I'd be delighted. I'm just working
+on a very simple piece of programming code.
+
+245
+00:17:33,720 --> 00:17:36,041
+I see.
+
+246
+00:17:36,160 --> 00:17:38,891
+Oh, God, no, I'm lying again.
+I didn't understand any of that.
+
+247
+00:17:39,000 --> 00:17:42,766
+I don't know anything about computers.
+I mean, I'm absolutely useless to you.
+
+248
+00:17:42,880 --> 00:17:45,406
+I might as well pack up and go home.
+
+249
+00:17:47,680 --> 00:17:51,048
+Hi. Is Roy around?
+
+250
+00:17:52,160 --> 00:17:56,882
+Hello, there, little lady.
+Are you lost? How can I help you? I'm Roy.
+
+251
+00:17:57,760 --> 00:17:59,125
+Oh!
+
+252
+00:17:59,240 --> 00:18:01,720
+You wanted me to come down? Huh?
+
+253
+00:18:01,840 --> 00:18:05,242
+- Well, here I am.
+- Not the face!
+
+254
+00:18:05,360 --> 00:18:07,169
+Not the face!
+
+255
+00:18:07,280 --> 00:18:12,810
+Well, maybe this will teach you to treat
+people with a little bit of respect!
+
+256
+00:18:12,920 --> 00:18:17,050
+Is there any chance
+we spoke on the phone earlier?
+
+257
+00:18:17,160 --> 00:18:19,049
+Oh, my God. Are those Manolos?
+
+258
+00:18:19,160 --> 00:18:22,607
+- Oh, yes.
+- They are gorgeous. Were they expensive?
+
+259
+00:18:22,720 --> 00:18:25,007
+No. No, no, no.
+Got them in the sale.
+
+260
+00:18:25,120 --> 00:18:28,203
+Oh, God. Clever you. I'm never
+lucky enough to get a bargain like that.
+
+261
+00:18:28,320 --> 00:18:31,005
+- Well, I should take you shopping.
+- That would be fantastic.
+
+262
+00:18:31,120 --> 00:18:32,770
+- I'm upstairs.
+- I'll give you a call.
+
+263
+00:18:32,880 --> 00:18:36,089
+- Nice to meet you. Take care.
+- Nice meeting you.
+
+264
+00:18:36,200 --> 00:18:40,444
+Chairman Wow.
+You just defused that entire situation.
+
+265
+00:18:40,560 --> 00:18:42,244
+What situation?
+
+266
+00:18:42,360 --> 00:18:45,921
+Oh, that. Yeah.
+Oh, my God. Does that happen a lot?
+
+267
+00:18:46,040 --> 00:18:49,283
+They're fairly regular, the beatings, yes.
+
+268
+00:18:49,400 --> 00:18:51,687
+I'd say we're on a biweekly beating.
+
+269
+00:18:51,800 --> 00:18:54,167
+Oh, it's not all that bad.
+
+270
+00:18:54,280 --> 00:18:56,806
+Come on, Roy. It's pretty bad.
+
+271
+00:18:56,920 --> 00:19:01,209
+Maybe I could help with this.
+You know, I mean, I'm a people person,
+
+272
+00:19:01,320 --> 00:19:05,803
+and people like you need a person to deal
+with people - a people person like me.
+
+273
+00:19:06,200 --> 00:19:09,886
+Oh, my God. Ideas are coming.
+Things are happening here.
+
+274
+00:19:10,000 --> 00:19:12,162
+OK, OK. What would you say, yeah,
+
+275
+00:19:12,280 --> 00:19:17,571
+if I told you that I had a plan
+to raise your profile upstairs by 100%?
+
+276
+00:19:17,680 --> 00:19:20,490
+- What would you say?
+- It can't be done. You're crazy.
+
+277
+00:19:20,600 --> 00:19:24,002
+What would you say, Roy?
+Roy's passed out. OK.
+
+278
+00:19:24,120 --> 00:19:27,806
+I need a felt-tip pen and some paper.
+
+279
+00:19:56,240 --> 00:19:58,208
+Yeah. Yeah. No, no.
+
+280
+00:20:00,160 --> 00:20:03,050
+No, really, really, really.
+It was a true story.
+
+281
+00:20:03,160 --> 00:20:04,844
+Unbelievable.
+
+282
+00:20:04,960 --> 00:20:08,931
+I don't know why we don't go out with you
+IT guys more often. You're hilarious.
+
+283
+00:20:09,040 --> 00:20:11,008
+Yes, we are!
+
+284
+00:20:11,120 --> 00:20:14,488
+Well, you guys should
+come down here more often, you know.
+
+285
+00:20:14,600 --> 00:20:17,524
+You should see this
+as a new era for Reynholm Industries.
+
+286
+00:20:17,640 --> 00:20:20,723
+"A new era
+for Reynholm Industries."
+
+287
+00:20:20,840 --> 00:20:24,526
+Oh, God. You know what? If you wanna hear
+something really funny, a really funny story,
+
+288
+00:20:24,640 --> 00:20:28,042
+you should hear what happened to Moss and I
+when we were so drunk in Amsterdam
+
+289
+00:20:28,160 --> 00:20:30,686
+that Moss lost his glasses.
+
+290
+00:20:30,800 --> 00:20:32,928
+Moss! Moss!
+
+291
+00:20:33,040 --> 00:20:36,601
+Come here, come here. Tell them that story
+about when we were drunk in Amsterdam.
+
+292
+00:20:36,720 --> 00:20:39,041
+- Really?
+- Yeah, yeah, yeah. Oh, it's brilliant.
+
+293
+00:20:39,160 --> 00:20:44,803
+This is a great story. You're going to love it.
+I'm just going to get another box of wine.
+
+294
+00:20:44,920 --> 00:20:46,888
+Well, go on, then.
+
+295
+00:20:47,880 --> 00:20:50,042
+All right.
+
+296
+00:20:50,160 --> 00:20:54,404
+- Well, one night we were really drunk.
+- Yeah.
+
+297
+00:20:54,520 --> 00:20:58,605
+And we were so drunk
+that we decided to hire prostitutes.
+
+298
+00:21:01,800 --> 00:21:04,400
+When they arrived at the hotel,
+we were too scared to do anything,
+
+299
+00:21:04,440 --> 00:21:06,920
+so we brought them to a fair.
+
+300
+00:21:07,040 --> 00:21:09,850
+They were really nice.
+In the end, they only charged us half.
+
+301
+00:21:09,960 --> 00:21:13,123
+But we did have to pay for all the rides.
+
+302
+00:21:17,160 --> 00:21:18,491
+Ha, ha!
+
+303
+00:21:18,600 --> 00:21:21,524
+Oh, isn't that just the best story?
+
+304
+00:21:21,640 --> 00:21:23,130
+Oh, man.
+
+305
+00:21:23,240 --> 00:21:25,447
+You told me
+to never tell that story to anyone.
+
+306
+00:21:25,560 --> 00:21:27,642
+What are you talking about?
+It's a brilliant story.
+
+307
+00:21:27,760 --> 00:21:31,162
+And then you nearly walked into the canal.
+Has he got to that part with the boatman?
+
+308
+00:21:31,280 --> 00:21:33,248
+Oh.
+
+309
+00:21:34,960 --> 00:21:38,407
+You mean the story
+where I lost my glasses?
+
+310
+00:21:41,880 --> 00:21:43,848
+Yes.
+
+311
+00:21:47,400 --> 00:21:50,449
+What story did you think I meant?
+
+312
+00:21:50,560 --> 00:21:52,130
+Moss?
+
+313
+00:21:53,160 --> 00:21:56,130
+What did you say?
+What did you say?
+
+314
+00:21:58,600 --> 00:22:01,080
+It's all right for you two.
+
+315
+00:22:01,200 --> 00:22:04,443
+You're used to being social piranhas.
+
+316
+00:22:07,360 --> 00:22:10,170
+I'm a very popular person usually.
+
+317
+00:22:10,280 --> 00:22:15,207
+That girl earlier, that tried to
+beat me to death with her shoes,
+
+318
+00:22:15,320 --> 00:22:17,243
+did anybody get her number?
+
+319
+00:22:18,440 --> 00:22:21,808
+That was a nice day at the fair, wasn't it?
+
+320
+00:22:23,520 --> 00:22:25,727
+With Brandy and Crystal.
+
+321
+00:22:28,800 --> 00:22:30,768
+Hello, IT.
+
+322
+00:22:31,880 --> 00:22:34,406
+Yeah. Have you tried
+turning it off and on again?
+
+323
+00:23:05,960 --> 00:23:07,325
+Hello!
+
+324
+00:23:07,560 --> 00:23:09,005
+Hello!
+
+325
+00:23:09,240 --> 00:23:10,685
+Hello!
+
+326
+00:23:10,920 --> 00:23:12,046
+Hello!
+
+327
+00:23:12,160 --> 00:23:15,084
+Visiontext Subtitles: Simon Campbell
+
